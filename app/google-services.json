@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "600661979840",
+    "project_id": "firebase-task-remainder"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600661979840:android:c013b88162d06725",
+        "android_client_info": {
+          "package_name": "com.example.wojtek.taskreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600661979840-vfopgoskumj8o4c1eeh7rt4v24fmm9l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wojtek.taskreminder",
+            "certificate_hash": "4141f57fded60a47818527fe1c070e0a88024b0e"
+          }
+        },
+        {
+          "client_id": "600661979840-2gjvhs96qensqd4fvkjj5emtrsvq3kmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZxwvbq5Dmv_QmsWen9n0_rvDleDPpt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
